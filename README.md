@@ -7,6 +7,8 @@
 
 ---
 [![Loading  (2)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/ea693fe5-b658-4840-9a29-f86303270a82)](https://youtu.be/nMJmZS5NUso)
+ - [Assistir vídeo aqui](https://www.youtube.com/watch?v=nMJmZS5NUso&t=4s)
+ 
 ## 👨‍💻️ Sobre o Projeto
 
 Desenvolvi este projeto para aprender na prática sobre sistemas distribuídos, visando aprimorar o aprendizado nos microfundamentos de Projeto de Software e Arquitetura de Software Distribuído.
