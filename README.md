@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+<h1 align="center">
+  👻 Ghost Chatter 👻
+</h1>
+<p align="center">
+  <![chatterSabrinaGif](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/90cd9c77-73d1-40c9-9c96-6163533e526e)/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+[![Loading  (2)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/ea693fe5-b658-4840-9a29-f86303270a82)](https://youtu.be/nMJmZS5NUso)
+## 👨‍💻️ Sobre o Projeto
 
-## Available Scripts
+Desenvolvi este projeto para aprender na prática sobre sistemas distribuídos, visando aprimorar o aprendizado nos microfundamentos de Projeto de Software e Arquitetura de Software Distribuído.
 
-In the project directory, you can run:
+A aplicação foi criada com base, especialmente, nas dicas do Professor Bonieky Lacerda.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖥Tecnogias utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm test`
+- [React](https://flutter.dev)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### _Linguagens_
 
-### `npm run build`
+- [javascript](https://b7web.com.br/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### _Dependências_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org)
+- [emoji-picker-react](https://github.com/ealush/emoji-picker-react/blob/master/README.md)
+- [Material-icons](https://material-ui.com/pt/components/material-icons/)
+- [Firebase ](https://firebase.google.com/?hl=pt)
 
-### `npm run eject`
+### _Padronização de código_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### _IDE_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📦️ Como utilizar o projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para copiar o projeto, utilize os comandos:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  # Clonar o repositório
+  ❯ git clone https://github.com/sabrinagomessilva/chatterBatePapo.git
 
-### Code Splitting
+```
+Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn ou npm:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Utilizando yarn**
 
-### Analyzing the Bundle Size
+```bash
+  # verificar as dependências
+  ❯ yarn install
+  
+  # Iniciar o projeto
+  ❯ yarn start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Utilizando npm**
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+```bash
+  # Atualizar as dependências
+  ❯ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  # Iniciar o projeto
+  ❯ npm start
+```
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+
+![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/85b34333-f2f7-4253-88c5-f0ad9d0c60ca)
+![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/c9b794c3-2366-46b4-9d14-896fdccb159c)
+![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/a0f5a847-751a-421e-98f6-2f0960a2a883)
+
+
+
+
+</p>
+
+
+<h4 align="center">
+  Feito com ❤️ por Sabrina Gomes 
+👋️ <a href="mailto:sabrinagomes3@gmail.com">Entre em contato!</a>
+</h4>
+
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/sabrina-gomes-programacao/">
+    <img alt="Sabrina Gomes" src="https://img.shields.io/badge/LinkedIn-Sabrina_Gomes-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+
+
+ 
+
+
+</p>
