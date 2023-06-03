@@ -9,7 +9,8 @@
 </p>
 
 ---
-[![Loading  (2)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/ea693fe5-b658-4840-9a29-f86303270a82)](https://youtu.be/nMJmZS5NUso)
+![Loading  (3)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/42050c00-5610-4099-9b14-c28fce4f4f43)
+
  - [Assistir vídeo de Apresentação no Youtube](https://www.youtube.com/watch?v=nMJmZS5NUso&t=4s)
  
 ## 👨‍💻️ Sobre o Projeto
