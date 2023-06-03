@@ -110,9 +110,6 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn o
 
 ![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/85b34333-f2f7-4253-88c5-f0ad9d0c60ca)
 ![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/c9b794c3-2366-46b4-9d14-896fdccb159c)
-![image](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/a0f5a847-751a-421e-98f6-2f0960a2a883)
-
-
 
 
 </p>
