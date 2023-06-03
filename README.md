@@ -11,9 +11,11 @@
 ---
 ![Loading  (3)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/42050c00-5610-4099-9b14-c28fce4f4f43)
 
- - [Assistir vídeo de Apresentação no Youtube](https://www.youtube.com/watch?v=nMJmZS5NUso&t=4s)
+ - [Assistir vídeo de Apresentação no Youtube](https://youtu.be/tk2M2edB1aw)
  
 ## 👨‍💻️ Sobre o Projeto
+
+- Projeto: Desenvolvimento de uma Aplicação Distribuída - Sabrina Gomes - 2023/1
 
 Trata-se de uma Aplicação de mensagens distribuídas para comunicação em grupo. Um sistema simples de bate papo, visando aprimorar os primeiros passos no aprendizado para construção de um aplicativo de mensagens instantâneas, utilizando-se uma arquitetura distribuída para permitir que os usuários se comuniquem entre si de forma assíncrona e segura.
 
@@ -21,7 +23,7 @@ Desenvolvi este projeto para aprender na prática sobre sistemas distribuídos, 
 
 A aplicação foi criada com base, especialmente, nas dicas do [Professor Bonieky Lacerda](https://www.youtube.com/@bonieky) e com as orientações do [Professor Leonardo Vilela Cardoso](https://github.com/lvcardoso) do curso [PUC Minas em disciplinas de Aplicações Distribuídas, Projeto de Software e Web](https://github.com/ICEI-PUC-Minas-PMV-ADS).
 
-Em especial, gostaria de agradecer ao Desenvolvedor [Pedro Araújo Júnior](https://www.linkedin.com/in/pedro-ara%C3%BAjo-j%C3%BAnior-5016bb60/), que me ajudou muito, principalmente, com as atualizações das bibliotecas, com a linguagem de programação e orientação dos métodos. 
+Em especial, gostaria de agradecer ao Desenvolvedor [Pedro Araújo Júnior](https://www.linkedin.com/in/pedro-ara%C3%BAjo-j%C3%BAnior-5016bb60/), que me ajudou muito, principalmente, com as atualizações das bibliotecas e orientação dos métodos. 
 
 ## 👻 Neste projeto:
 - Login com a Conta Google
@@ -36,6 +38,8 @@ Em especial, gostaria de agradecer ao Desenvolvedor [Pedro Araújo Júnior](http
 
 ## 👻 Futuras implementações:
 - Envio de imagens
+- Incluir botão Sair da Aplicação
+- Incluir outros botões de logar
 - Notificação de nova mensagem
 - Notificação de visualização de mensagens
 
