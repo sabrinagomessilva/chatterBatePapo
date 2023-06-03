@@ -11,7 +11,7 @@
 ---
 ![Loading  (3)](https://github.com/sabrinagomessilva/chatterBatePapo/assets/78277341/42050c00-5610-4099-9b14-c28fce4f4f43)
 
- - [Assistir vídeo de Apresentação no Youtube](https://youtu.be/tk2M2edB1aw)
+ - [Assistir vídeo de Apresentação no Youtube](https://youtu.be/tk2M2edB1aw).
  
 ## 👨‍💻️ Sobre o Projeto
 
